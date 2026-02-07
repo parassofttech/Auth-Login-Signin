@@ -11,7 +11,7 @@ const WelcomeMessage = ({ userName }) => {
         Thank you for logging in and visiting our website.
         We’re truly glad to have you here.
       </p>
-
+ 
       <p className="text-gray-600 leading-relaxed mb-4">
         This platform is designed to provide you with a smooth, secure,
         and user-friendly experience. Every feature you see here

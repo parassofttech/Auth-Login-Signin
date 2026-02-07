@@ -17,7 +17,7 @@ const Login = () => {
     copyloginInfo[inputName] = inputValue
     setLoginInfo(copyloginInfo)
   }
-
+ 
   const handleLogin = async (e) => {
     e.preventDefault()
     const { email, password } = loginInfo

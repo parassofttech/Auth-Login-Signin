@@ -16,7 +16,7 @@ const About = () => {
           features without complexity.
         </p>
       </div>
-
+ 
       {/* What this website does */}
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 mb-16">
         

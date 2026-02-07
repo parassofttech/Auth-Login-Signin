@@ -17,7 +17,7 @@ const Footer = () => {
             user-friendly experience using the latest web technologies.
           </p>
         </div>
-
+ 
         {/* Quick Links */}
         <div>
           <h3 className="text-lg font-semibold text-white mb-4">

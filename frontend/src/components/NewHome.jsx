@@ -12,7 +12,7 @@ const NewHome = () => {
             type="text"
             placeholder='enter your name'
             name='name'
-        
+         
         />
        </div>
        <div>

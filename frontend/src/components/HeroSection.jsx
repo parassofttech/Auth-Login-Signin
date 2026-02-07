@@ -16,7 +16,7 @@ const HeroSection = () => {
             </span>
           </h1>
           
-
+ 
           <p className="text-gray-600 text-lg leading-relaxed mb-8">
             Welcome to our platform — a modern, secure, and user-friendly web
             application built to deliver smooth experiences.  
