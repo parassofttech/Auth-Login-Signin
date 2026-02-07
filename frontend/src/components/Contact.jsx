@@ -89,7 +89,7 @@ const Contact = () => {
               <p className="text-gray-600">+91 6307478350</p>
             </div>
           </div>
-
+ 
           <div className="flex items-center gap-4">
             <MapPin className="text-purple-600" />
             <div>
