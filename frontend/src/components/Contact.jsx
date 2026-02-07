@@ -81,7 +81,7 @@ const Contact = () => {
               <p className="text-gray-600">paras2115s@gmail.com</p>
             </div>
           </div>
-
+ 
           <div className="flex items-center gap-4">
             <Phone className="text-green-600" />
             <div>
