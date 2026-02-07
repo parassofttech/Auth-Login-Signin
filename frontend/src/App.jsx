@@ -22,8 +22,7 @@ function App() {
       <RefreshHandler setIsAuthenticated={setIsAuthenticated}/>
       <NavBar/>
       <Routes>
-        <Route path='/' element={<Navigate to="/ps" />}/>
-        <Route path='/ps' element={<Login/>}/>
+        <Route path='/' element={<Navigate to="/login" />}/>
         <Route path='/login' element={<Login/>}/>
         <Route path='/signup' element={<Signup/>}/>
         <Route path='/home' element={<PrivateRoute element={<Home/>}/>}/>
